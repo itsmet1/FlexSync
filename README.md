@@ -1,4 +1,6 @@
-# Virtual Corporate Workspace — MVP
+# FlexSync — Virtual Corporate Workspace MVP
+
+Hierarchy-based remote office platform
 
 Goal: Build a standalone virtual corporate office platform supporting multi-company workspaces, hierarchy, internal chat, task management, and dashboards.
 
