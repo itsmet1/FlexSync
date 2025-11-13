@@ -1,0 +1,15 @@
+# Node/TypeScript
+node_modules/
+dist/
+.tmp/
+.DS_Store
+.env
+.env.*
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+# Editor
+.vscode/
+.idea/

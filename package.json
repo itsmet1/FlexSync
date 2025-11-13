@@ -1,0 +1,9 @@
+{
+  "name": "virtual-corporate-workspace-mvp",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "backend",
+    "frontend"
+  ]
+}
